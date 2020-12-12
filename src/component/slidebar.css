@@ -1,0 +1,21 @@
+.navlinkresize {
+	margin-bottom: -10% !important;
+}
+ul {
+	list-style-type: none !important;
+}
+
+.sidebar .nav li > a,
+.off-canvas-sidebar .nav li > a {
+	padding: 1px 2px !important;
+}
+.hideandshow {
+	display: none;
+}
+
+.toggleclass {
+	border-radius: 4%;
+	background-color: #1e1e2f;
+	box-shadow: 0.4px 0.2px 3px 1px;
+	margin: 0.1px;
+}

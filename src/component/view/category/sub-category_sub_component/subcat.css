@@ -1,0 +1,8 @@
+.form-control .select-items {
+	background-color: #1e1e2f;
+	color: white;
+
+	font-size: 12px;
+	border-style: none !important;
+	box-sizing: none !important;
+}

@@ -1,0 +1,40 @@
+.dataTable-search {
+	text-align: right;
+}
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+.dataTable-pagination {
+	margin: 0;
+	white-space: nowrap;
+	text-align: right !important;
+	display: flex;
+	padding-left: 0;
+	list-style: none;
+	border-radius: 0.25rem;
+	font-size: 20px;
+	padding: 5px;
+	white-space: nowrap;
+	justify-content: flex-end;
+	padding-right: 30px;
+	margin: 0 10px;
+}
+.dataTable-pagination a {
+	z-index: 3;
+	color: #fff;
+
+	padding: 10px;
+	position: relative;
+	display: block;
+	padding: 0.5rem 0.75rem;
+	margin-left: -1px;
+	line-height: 1.25;
+	color: #007bff;
+}
+.dataTable-pagination li :hover {
+	color: white !important;
+	background-color: royalblue;
+	border-radius: 50%;
+}
