@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react1/static/css/main.978d9712.chunk.css",
+    "main.js": "/react1/static/js/main.9254f0cb.chunk.js",
+    "main.js.map": "/react1/static/js/main.9254f0cb.chunk.js.map",
+    "runtime-main.js": "/react1/static/js/runtime-main.bb8d3088.js",
+    "runtime-main.js.map": "/react1/static/js/runtime-main.bb8d3088.js.map",
+    "static/js/2.3b6de89a.chunk.js": "/react1/static/js/2.3b6de89a.chunk.js",
+    "static/js/2.3b6de89a.chunk.js.map": "/react1/static/js/2.3b6de89a.chunk.js.map",
+    "static/js/3.0279cf92.chunk.js": "/react1/static/js/3.0279cf92.chunk.js",
+    "static/js/3.0279cf92.chunk.js.map": "/react1/static/js/3.0279cf92.chunk.js.map",
+    "index.html": "/react1/index.html",
+    "precache-manifest.d85962db369a4b9a859960eb1fc60b7d.js": "/react1/precache-manifest.d85962db369a4b9a859960eb1fc60b7d.js",
+    "service-worker.js": "/react1/service-worker.js",
+    "static/css/main.978d9712.chunk.css.map": "/react1/static/css/main.978d9712.chunk.css.map",
+    "static/js/2.3b6de89a.chunk.js.LICENSE.txt": "/react1/static/js/2.3b6de89a.chunk.js.LICENSE.txt",
+    "static/js/main.9254f0cb.chunk.js.LICENSE.txt": "/react1/static/js/main.9254f0cb.chunk.js.LICENSE.txt",
+    "static/media/anime3.png": "/react1/static/media/anime3.bd6820f1.png",
+    "static/media/nucleo-icons.css": "/react1/static/media/nucleo.f0b489a5.woff",
+    "static/media/Login.css": "/react1/static/media/star-sky.db32ff04.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb8d3088.js",
+    "static/js/2.3b6de89a.chunk.js",
+    "static/css/main.978d9712.chunk.css",
+    "static/js/main.9254f0cb.chunk.js"
+  ]
+}
